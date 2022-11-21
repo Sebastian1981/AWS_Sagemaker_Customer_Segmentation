@@ -130,3 +130,6 @@ dmypy.json
 
 # dont sync data
 /data
+
+# dont sync autoencoder weights
+*.h5
